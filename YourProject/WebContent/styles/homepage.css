@@ -1,0 +1,28 @@
+
+#container #homepage{display:block; width:100%; line-height:1.6em;}
+
+#container #homepage #shout{display:block; width:100%; margin-bottom:50px; text-align:center;}
+#container #homepage #shout h1{font-size:5em; line-height:normal;}
+#container #homepage #shout p{margin:0; padding:0; font-size:1.6em;}
+
+#container #homepage #featured_slide{display:block; width:100%;}
+#container #homepage #featured_slide figure{}
+#container #homepage #featured_slide figure header{display:none;}
+#container #homepage #featured_slide figure ul{margin:0; padding:0; list-style:none;}
+#container #homepage #featured_slide figure ul li{display:block; float:left; width:23.4375%; height:auto; margin:0 2.08333% 0 0; padding:0;}
+#container #homepage #featured_slide figure ul li a:hover{opacity:0.75;}
+#container #homepage #featured_slide figure ul li.last{margin-right:0; padding:0;}
+#container #homepage #featured_slide figure ul li img{}
+#container #homepage #featured_slide figure figcaption{display:block; visibility:hidden; clear:both;}
+
+#container #homepage #services{margin-bottom:30px; padding-bottom:30px; border-bottom:1px solid #D6D6D6;}
+#container #homepage #services article{}
+#container #homepage #services article h2{}
+#container #homepage #services article p{margin:10px 0; padding:0;}
+#container #homepage #services article footer{}
+
+#container #homepage #intro{margin-bottom:0;}
+#container #homepage #intro article{}
+#container #homepage #intro article h2{}
+#container #homepage #intro article p{}
+#container #homepage #intro article footer{}

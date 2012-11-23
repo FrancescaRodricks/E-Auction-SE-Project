@@ -1,0 +1,12 @@
+#portfolio{display:block; width:100%; padding:20px 0; line-height:1.6em;}
+#portfolio ul{margin:0; padding:0; list-style:none;}
+#portfolio li{display:block; width:100%; margin-bottom:5px; padding:20px 0; border-bottom:1px solid #D6D6D6;}
+#portfolio li ul{margin:auto; padding:inherit; list-style:inherit; list-style-position:inside;}
+#portfolio li ul li{display:inherit; width:auto; margin:auto auto auto 25px; padding:0; border:none;}
+#portfolio li.last{margin-bottom:0; border-bottom:none;}
+#portfolio article, #portfolio article figure{display:block; width:100%;}
+#portfolio article figure a.imgholder{display:block; float:right; width:52.08333%; padding:10px; border:5px solid #D6D6D6;}
+#portfolio article figure a.imgholder img{}
+#portfolio article figure figcaption{display:block; float:left; width:39.58333%;}
+#portfolio article figure figcaption header{margin:0 0 15px 0; padding:0; font-size:1.8em;}
+#portfolio article figure figcaption footer{display:block; text-align:right;}

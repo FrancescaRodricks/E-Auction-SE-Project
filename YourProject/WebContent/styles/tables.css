@@ -1,0 +1,6 @@
+table{width:100%;table-layout:auto; vertical-align:top; margin-bottom:5px; border:0px}
+table thead th{ background-color:#666666;  border-collapse:collapse; text-align:center; table-layout:auto; vertical-align:middle;}
+table tbody td{vertical-align:top; border-collapse:collapse; border-left:0px ; border-right:0px }
+table thead th, table tbody td{padding:5px; border-collapse:collapse;}
+table tbody tr.light{ background-color:#F7F7F7;}
+table tbody tr.dark{ background-color:#E8E8E8;}

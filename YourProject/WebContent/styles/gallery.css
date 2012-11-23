@@ -1,0 +1,8 @@
+#gallery{display:block; width:100%; line-height:1.6em;}
+#gallery figure{}
+#gallery figure header{margin:0 0 15px 0; padding:0; font-size:1.8em; line-height:normal;}
+#gallery figure figcaption{display:block; width:100%; margin:0; padding:0; clear:both;}
+#gallery ul, #gallery img{margin:0; padding:0; list-style:none;}
+#gallery li{display:block; float:left; width:31.25%; height:auto; margin:0 3.125% 3.125% 0; padding:0;}
+#gallery li.large{display:block; width:65.625%;}
+#gallery li.last{margin-right:0;}

@@ -1,0 +1,14 @@
+.one_half, .two_half, 
+.one_third, .two_third, .three_third, 
+.one_quarter, .two_quarter, .three_quarter, .four_quarter, 
+.one_fifth, .two_fifth, .three_fifth, .four_fifth, .five_fifth{margin:0 0 0 2%;}
+
+.first{margin:0;}
+
+.clear{*display:inline;}
+
+@media screen 
+and (min-width : 551px) 
+and (max-width : 800px) {
+	#header #topnav li{*display:inline;}
+}
